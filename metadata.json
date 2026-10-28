@@ -1,0 +1,6 @@
+{
+  "name": "我的強項大冒險：自信與情緒探索遊戲",
+  "description": "專為認識個人強項與進階情緒辨識設計的互動式學習遊戲。結合強項探索卡、分類配對、情緒放大鏡與自信表達三步驟舞台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
